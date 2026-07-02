@@ -44,7 +44,7 @@ bus-delay-risk-luxembourg/
 ## How to run
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/marcelorech1983/bus-delay-risk-luxembourg.git
 cd bus-delay-risk-luxembourg
 pip install -r requirements.txt
 ```
