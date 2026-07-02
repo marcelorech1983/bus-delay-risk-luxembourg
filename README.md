@@ -8,7 +8,7 @@ The data covers roughly 7 to 8 weeks, from 25 July to 16 September 2025, and con
 
 The modeling table has 13 features. Every one of them is leakage-safe: it only uses information that is known before the bus arrives at the stop (route, stop, time of day, weekday, weather, and similar). Delays are not rare in this data: about 36% of stop events are delayed, so accuracy is a misleading metric here. The project is scored on F1 instead.
 
-Only public transport operators are named in the data and in this repo (for example AVL and TICE). No employer names, personal data, API URLs, or API keys are included anywhere.
+Only public transport operators are named in the data and in this repo (for example TICE). No employer names, personal data, API URLs, or API keys are included anywhere.
 
 ## Project structure
 
